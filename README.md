@@ -7,5 +7,4 @@ A
 Masodik
 
 Harmadik
-
-Negyedik
+2
