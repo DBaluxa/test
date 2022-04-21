@@ -7,4 +7,6 @@ A
 Masodik
 
 Harmadik
-2
+
+
+Nygess
