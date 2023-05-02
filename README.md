@@ -6,5 +6,5 @@ A
 Masodik
 
 Harmadik
-
+d
 Nygess
