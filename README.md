@@ -7,4 +7,5 @@ Masodik
 
 Harmadik
 d
+a
 Nygess
